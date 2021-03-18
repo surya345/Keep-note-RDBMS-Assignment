@@ -13,7 +13,7 @@ tables, relationships, triggers and add sample data into each table.
 
 Create the tables for Note, Category, Reminder, User, UserNote, NoteReminder and NoteCategory.
 
-User table fields: user_id, user_name, user_added_date, user_password, user_mobile
+
 
 Note table fields: note_id, note_title, note_content, note_status, note_creation_date
 
@@ -27,6 +27,7 @@ Notereminder table fields : notereminder_id, note_id, reminder_id
 
 usernote table fields : usernote_id, user_id, note_id
 
+User table fields: user_id, user_name, user_added_date, user_password, user_mobile
 
 Insert the rows into the created tables (Note, Category, Reminder, User, UserNote, NoteReminder and NoteCategory).
 
